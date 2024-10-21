@@ -1,0 +1,7 @@
+ipykernel
+pandas
+matplotlib
+seaborn
+scipy
+scikit-posthocs
+openpyxl
